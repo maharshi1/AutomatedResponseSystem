@@ -1,4 +1,3 @@
-#Preparing a​n Automated Response System​​​ based on the rules written in form of JSON
 
 - Use **Python3**
 - Run python Command Line - **python main.py**
